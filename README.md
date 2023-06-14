@@ -1,9 +1,9 @@
-# EX-03  RollaBall
-
-## Aim:
+## Ex-2  RollaBall
+### Date:27/3/2023
+### Aim:
 To Roll a Ball using C# program in unity .
 
-## Algorithm:
+### Algorithm:
 
 1. File -> Scene -> Select the scene -> Save as-> New folder(Scenes)-> File name (MiniGame)
 
@@ -43,7 +43,7 @@ Hierarchy -> Player -> Inspector-> AddComponent-> NewScripts-> PlayerController(
 Copy the PlayerController and drag to Script folder
 Double click the PlayerController file and type the coding
 
-## Program:
+### Program:
 ```
 Developed By: Silambarasan K
 Reg No: 212221230101
@@ -98,8 +98,8 @@ public class ex2 : MonoBehaviour
 }
 
 ```
-## Output:
+### Output:
 
 ![1](https://user-images.githubusercontent.com/94525786/233114261-ec561abc-31ac-4859-83f9-051181abea78.png)
-## Result:
+### Result:
 Thus, The 3D application for Roll the Ball in unity is developed successfully.
